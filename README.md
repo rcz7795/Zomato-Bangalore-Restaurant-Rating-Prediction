@@ -34,6 +34,7 @@ The detailed analysis and model creation can be found in the .ipynb file.
 ## Result :
 
 The performance of Random Forest after hyper-parameter optimization is as below:
+
 ![test](Snips/1.JPG)
 
 
